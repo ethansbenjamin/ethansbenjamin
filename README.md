@@ -1,4 +1,4 @@
-##### I'm Ethan, a Computer Science student at Carleton University. I care about leveraging technology to optimize the human experience. In my spare time, I enjoy writing, conversations, and coffee.
+### I'm Ethan, a Computer Science student at Carleton University. I care about leveraging technology to optimize the human experience. In my spare time, I enjoy writing, conversations, and coffee.
 
 Here are some of my core values and beliefs:
 
