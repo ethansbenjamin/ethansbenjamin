@@ -1,1 +1,1 @@
-This profile is currently in construction :) 
+learning & unlearning
